@@ -607,6 +607,21 @@
     cursor: pointer;
 
 }
+
+.skill7 img{
+  width: 25vh;
+  height: 25vh;
+  margin-left: 50px;
+  /* transition: 0.50s 0s ease; */
+  
+
+}
+.skill7:hover{
+  transform: scale(1.11);
+  transition: all 0.5s 0s ;
+  cursor: pointer;
+
+}
 .skillloading img{
     width: 25vh;
     height: 25vh;
